@@ -1,0 +1,1 @@
+# Applying-Naive-Bayes-KNN-and-SVM-Algorithm-on-Data-Set
